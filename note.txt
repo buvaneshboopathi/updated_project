@@ -3,3 +3,4 @@
 3.open---- duplicate/reject/differ/not a bug
 4.fix
 5.retest
+6.reopen

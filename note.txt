@@ -1,0 +1,4 @@
+1.new
+2.assign
+3.open---- duplicate/reject/differ/not a bug
+4.fix
